@@ -10,8 +10,8 @@ konstructordan istifadə edərik.
 field-i var. İndi durub bu field-lərin 5-ni də biz konstruktura göndərsək, sabah məsələn bizə adamın address-ni 
 qeyd elemek lazım olmasa, onda gərək belə edək: User user = new User("Parvin","Valizade","22",null,05555555);
 Bunu yazan zaman səhvən address yerinə age dəyişəninə null mənimsətmə halı baş verə bilər. Və ya mənim 20 dəyişənim 
-var , sadəcə ilk 10-una dəyər set edəcəm , qalan onuna null, null, null... yazmaq heç yaxşı yanaşma deyil.
-Deyə bilərsiniz ki, onda belə edək, əlavə bir dənə da konstruktor yaradaq , bizə hansı field-lər lazımdısa onu göndərək
+var , sadəcə ilk 10-una dəyər set edəcəm , qalan 10-a null, null, null... yazmaq heç yaxşı yanaşma deyil.
+Deyə bilərsiniz ki, onda belə edək, əlavə bir dənə da konstruktor yaradaq , bizə hansı field-lər lazımdısa onları göndərək
 həmin konstruktora. İndi düşünək.. Sabah ola bilər ki, bir dəfə bizə 20-dəyişəndən 9-na dəyər mənimsətmək lazım oldu,
 bir dəfə 10-na , bir dəfə 16-na ..
 Gərək hər biri üçün bir konstruktor yaradaq. Gözəl oldumu ? Olmadı 
