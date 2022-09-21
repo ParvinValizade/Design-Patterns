@@ -14,12 +14,6 @@ h
 8src/main/java/singletonpattern/SingletonPatternDemo.java,c\f\cf80756f4d398a9f8c46c2298c6cd1ddf890ffa4
 }
 Msrc/main/java/abstractfactorypattern/motorcycleabstraction/BMWMotorCycle.java,3\8\380c51a9ed23072642004c5cdd773141758c47b6
-V
-&src/main/java/builderpattern/User.java,6\e\6e4ebe6c0ae96f5683440914d01e0504412aa712
-V
-&src/main/java/builderpattern/Main.java,0\8\084399a5b0d3b37287f6f19c55d6d6b0c293aa5d
-W
-'src/main/java/builderpattern/House.java,5\2\5294c7c52b845505af911ea942d78e5e953c3271
 [
 +src/main/java/prototypepattern/Soldier.java,6\1\6154e752e2b9843e425cbfee50f0664db35c4599
 X
@@ -36,3 +30,9 @@ z
 Jsrc/main/java/abstractfactorypattern/motorcycleabstraction/MotorCycle.java,b\6\b6168e3a21069814f0a4bd96f9fbf78da39702de
 u
 Esrc/main/java/abstractfactorypattern/abstractfactory/AudiFactory.java,6\9\697b0003db15a4e629dc31c46659a8cc83c47274
+y
+Isrc/main/java/abstractfactorypattern/abstractfactory/AbstractFactory.java,d\d\dd210e21ce8a0698b33b4e985c3db42380bc097c
+t
+Dsrc/main/java/abstractfactorypattern/abstractfactory/BMWFactory.java,f\b\fb02cd866020d855ff01f905ef0182c38db66ed3
+^
+.src/main/java/abstractfactorypattern/README.md,0\b\0b7aa5bde66059a50af7a28f88e09c5b634432a3
